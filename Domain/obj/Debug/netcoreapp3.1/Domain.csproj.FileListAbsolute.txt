@@ -1,0 +1,10 @@
+C:\Projects\SetakProject\SetakProject\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Projects\SetakProject\SetakProject\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projects\SetakProject\SetakProject\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

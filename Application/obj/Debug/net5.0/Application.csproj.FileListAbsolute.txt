@@ -1,0 +1,17 @@
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\Application.deps.json
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\Application.dll
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\Application.pdb
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\Domain.dll
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\Persistence.dll
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\Persistence.pdb
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\net5.0\Domain.pdb
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.dll
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\net5.0\Application.pdb

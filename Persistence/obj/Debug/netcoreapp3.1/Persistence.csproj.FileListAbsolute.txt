@@ -1,0 +1,16 @@
+C:\Projects\SetakProject\SetakProject\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Projects\SetakProject\SetakProject\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+C:\Projects\SetakProject\SetakProject\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+C:\Projects\SetakProject\SetakProject\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Projects\SetakProject\SetakProject\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Projects\SetakProject\SetakProject\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projects\SetakProject\SetakProject\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+C:\Projects\SetakProject\SetakProject\Persistence\obj\Debug\netcoreapp3.1\Persistence.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Projects\SetakProject\SetakProject\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Projects\SetakProject\SetakProject\Domain\bin\Debug\net5.0\Domain.dll
+C:\Projects\SetakProject\SetakProject\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Projects\SetakProject\SetakProject\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\Domain.dll
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Projects\SetakProject\SetakProject\Domain\obj\Debug\net5.0\Domain.pdb

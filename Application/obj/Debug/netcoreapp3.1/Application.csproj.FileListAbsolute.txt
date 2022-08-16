@@ -1,0 +1,15 @@
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Projects\SetakProject\SetakProject\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Projects\SetakProject\SetakProject\Application\obj\Debug\netcoreapp3.1\Application.pdb

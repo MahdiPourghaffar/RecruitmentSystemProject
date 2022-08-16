@@ -1,0 +1,17 @@
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.csproj.AssemblyReference.cache
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.AssemblyInfoInputs.cache
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.AssemblyInfo.cs
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.csproj.CoreCompileInputs.cache
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Infrastracture.deps.json
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Infrastracture.dll
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Infrastracture.pdb
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Application.dll
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projects\SetakProject\SetakProject\Infrastracture\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.csproj.CopyComplete
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.dll
+C:\Projects\SetakProject\SetakProject\Infrastracture\obj\Debug\netcoreapp3.1\Infrastracture.pdb
